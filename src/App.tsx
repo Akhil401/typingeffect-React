@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="app">
       <h1> web developer </h1>
+      <h1>JavaScript Developer </h1>
     </div>
   )
 }
